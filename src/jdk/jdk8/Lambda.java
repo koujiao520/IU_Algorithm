@@ -41,5 +41,7 @@ public class Lambda {
         doubleList.add(1.4);
         doubleList.add(1.6);
         System.out.println(doubleList.stream().collect(Collectors.toList()));
+
+
     }
 }
